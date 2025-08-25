@@ -31,10 +31,3 @@ EMS streamlines HR operations through an **admin dashboard**, real-time notifica
 - **Version Control:** Git & GitHub  
 
 ---
-
-## Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/Employee-Management-System.git
-cd Employee-Management-System
